@@ -5,7 +5,7 @@ import time
 
 from snowflake.snowpark.types import IntegerType, StringType, StructField, StructType, DateType
 
-connection_parameters = {"account":"se65197.ap-northeast-1.aws",
+connection_parameters = {"account":"cf15705.ap-northeast-1.aws",
                          "user":"roddicke",
                          "password":"Doris0718!",
                          "role":"ACCOUNTADMIN",
